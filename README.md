@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abstractpraxis
-- 👀 I'm building a digital hub for artists who want to integrate their spirituality with their creative practice and making tools to assist with this as well.
-- 🌱 I’m a Global Studies major & I will be learning Python asaptually.
-- 💞️ I’m looking to collaborate on projects that flow with the theme of creativity & spiritual enrichment, even if somewhat abstractly.
+- 👀 I'm building digital studios for creative expression, spiritual nourishment, + revolutionary refinement.
+- 🌱 I’m a Global Studies major currently learning Python.
+- 💞️ I’m looking to collaborate on projects that flow with the theme of creativity, spiritual enrichment, + anti-imperialism.
 - 📫 Hmu - abstractpraxis@gmail.com
 
 <!---
